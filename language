@@ -10,6 +10,6 @@
 Want to try it out? Here's how:
 
  **Clone this repo**:
-   bash
+   ```bash
    git clone https://github.com/manasauppe/grade-calculator.git
    cd grade-calculator
