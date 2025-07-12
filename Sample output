@@ -1,0 +1,29 @@
+*************************************************************
+             Grade Calculator - Computer Programming I
+*************************************************************
+
+Here's how much each part counts toward your final grade:
+  📘 Programming Assignments: 15%
+  📝 Chapter Tests:           50%
+  📚 Final Exam:              30%
+  🙋 Class Participation:     5%
+
+Now, enter the scores you received (out of 100%)
+
+📘 Programming Assignments: 90
+📝 Chapter Tests: 85
+📚 Final Exam: 92
+🙋 Class Participation: 100
+
+------------------ Your Grade Breakdown ------------------
+
+📘 Programming Assignments:
+[###############.......................................] 13.50%
+
+📝 Chapter Tests:
+[#################################.....................] 42.50%
+
+...
+
+🎯 Final Grade: 88.70%
+📊 Final Letter Grade: B+
