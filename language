@@ -1,0 +1,15 @@
+## What I Used:
+
+- Language: C++
+- Libraries: Just the basics — "iostream" and "iomanip"
+
+###
+
+##  How to Use It
+
+Want to try it out? Here's how:
+
+ **Clone this repo**:
+   bash
+   git clone https://github.com/manasauppe/grade-calculator.git
+   cd grade-calculator
